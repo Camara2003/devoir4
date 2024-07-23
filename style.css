@@ -1,0 +1,31 @@
+.container{
+    width: 500px;
+    margin: 0 auto;
+    
+}
+
+.card{
+ 
+}
+
+body{
+    color: rgb(148, 134, 134);
+}
+
+.card{
+    text-align: center;
+    margin-bottom: 25px;
+    background-color: beige;
+    padding: 10px;
+    border-radius:10px;
+}
+h1{
+    color: red;
+}
+a:hover{
+    color: red;
+}
+a{
+    color: rgb(219, 208, 208);
+}
+
